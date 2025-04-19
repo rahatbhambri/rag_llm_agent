@@ -1,1 +1,3 @@
 rag_venv
+set_secrets*
+*.env
